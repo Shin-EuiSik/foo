@@ -1,11 +1,3 @@
 first commit.
 
-<<<<<<< HEAD
-
-필링크
-=======
-asdf
-sldakjlaskf
-jkldsfclksdjflksdjflksdjflk
-sdfsdfsdf
->>>>>>> d20a7aeecf519262e8021aa3b76fff7cb3ecad2c
+어렵네 ㅋ
